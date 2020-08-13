@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wfw.para.weframework">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- a start -->
+        <activity android:name=".a.ParaActivity" />
+        <activity android:name=".a.activity.ButtonActivity" />
+        <activity android:name=".a.activity.CheckActivity" />
+        <activity android:name=".a.activity.SpinnerActivity" />
+        <activity android:name=".a.activity.EditTextActivity" />
+        <activity android:name=".a.activity.CoordinatorLayoutActivity" />
+        <activity
+            android:name=".a.activity.ToolBarActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name=".a.activity.AppBarActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name=".a.activity.AppBarOneActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name=".a.activity.AppBarTwoActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name=".a.activity.AppBarThreeActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity
+            android:name=".a.activity.AppBarFourActivity"
+            android:theme="@style/ToolBarTheme" />
+        <activity android:name=".a.rxjava.RxJavaActivity" />
+        <!-- a end -->
+        <!-- b start -->
+        <activity android:name=".b.BActivity" />
+        <activity android:name=".b.Activity.ActivityHP" />
+        <activity android:name=".b.Activity.ActivitySD" />
+        <activity android:name=".b.Activity.ActivityMTV"/>
+        <activity android:name=".b.Activity.ActivityXSB"/>
+        <!-- b end -->
+        <!-- c start -->
+        <activity android:name=".c.CActivity" />
+        <activity
+            android:name=".c.activity.Activity_Progress"
+            android:label="一般Progress" />
+        <activity
+            android:name=".c.activity.Activity_Progress2"
+            android:label="自定义背景Progress" />
+        <!-- 二维码扫描试图自定义类 设置为竖屏 -->
+        <activity
+            android:name=".c.activity.zxing.CaptureActivityAnyOrientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c.activity.zxing.Activity_QRTest"
+            android:label="二维码扫描 简例" />
+        <activity
+            android:name=".c.activity.Activity_Navigation"
+            android:label="@string/title_activity__navigation"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <!-- 桌面控件...电子时钟 -->
+        <receiver
+            android:name=".c.desktop.C_LedClock"
+            android:icon="@drawable/c_n0"
+            android:label="电子时钟byZhao">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/c_led_clock_info" />
+        </receiver>
+
+        <!-- c end -->
+        <!-- d start -->
+        <activity android:name=".d.DActivity" />
+        <activity android:name=".d.activity.EditText1Activity" />
+
+        <!-- d end -->
+
+
+    </application>
+
+</manifest>

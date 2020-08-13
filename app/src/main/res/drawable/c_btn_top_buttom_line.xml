@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!--
+      1  实现 指定位置边框 
+      2  先设置背景
+      3  在用覆盖法
+    -->
+
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/black" />
+
+            <corners
+                android:bottomLeftRadius="0px"
+                android:bottomRightRadius="0px"
+                android:topLeftRadius="0px"
+                android:topRightRadius="0px" />
+        </shape>
+    </item>
+    <item
+        android:bottom="1dp"
+        android:top="1dp">
+        <shape android:shape="rectangle" >
+            <solid android:color="#ffffffff" />
+
+            <corners
+                android:bottomLeftRadius="0px"
+                android:bottomRightRadius="0px"
+                android:topLeftRadius="0px"
+                android:topRightRadius="0px" />
+        </shape>
+    </item>
+
+</layer-list>

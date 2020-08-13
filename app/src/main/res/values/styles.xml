@@ -1,0 +1,153 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- a start -->
+    <style name="ToolBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <!-- btn -->
+    <style name="btn">
+        <item name="android:textColor">@drawable/a_ziti</item>
+    </style>
+    <!-- 直角btn -->
+    <style name="btn_z" parent="btn">
+        <item name="android:background">@drawable/a_btn_z</item>
+    </style>
+    <!-- 圆角btn -->
+    <style name="btn_y" parent="btn">
+        <item name="android:background">@drawable/a_btn_y</item>
+    </style>
+    <!-- 阴影btn -->
+    <style name="btn_s" parent="btn">
+        <item name="android:background">@drawable/a_btn_s</item>
+    </style>
+    <!-- 直角,边框btn -->
+    <style name="btn_z_b" parent="btn">
+        <item name="android:background">@drawable/a_btn_z_b</item>
+    </style>
+    <!-- 圆角,边框btn -->
+    <style name="btn_y_b" parent="btn">
+        <item name="android:background">@drawable/a_btn_y_b</item>
+    </style>
+    <!-- 阴影,边框btn -->
+    <style name="btn_s_b" parent="btn">
+        <item name="android:background">@drawable/a_btn_s_b</item>
+    </style>
+    <!-- 渐变btn -->
+    <style name="btn_z_g" parent="btn">
+        <item name="android:background">@drawable/a_btn_z_g</item>
+    </style>
+    <!-- 渐变btn -->
+    <style name="btn_z_g_top_to_buttom" parent="btn">
+        <item name="android:background">@drawable/a_btn_z_g_top_to_buttom</item>
+    </style>
+
+    <!-- radioButton -->
+    <style name="rabtn">
+        <item name="android:button">@drawable/a_rabtn_point</item>
+        <item name="android:background">@drawable/a_rabtn</item>
+    </style>
+
+
+    <!-- a end   -->
+
+    <!-- b start -->
+
+    <style name="SlideDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/SlideDialogAnimation</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="SlideDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/b_dialog_slide_up</item>
+        <item name="android:windowExitAnimation">@anim/b_dialog_slide_down</item>
+    </style>
+
+    <!-- b end   -->
+
+
+    <!-- c start -->
+    <!--自定义 横向进度条-->
+    <style name="mProgress_horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/c_progress_background
+        </item><!-- progress_horizontal -->
+        <item name="android:indeterminateDrawable">
+            @android:drawable/progress_indeterminate_horizontal
+        </item>
+        <item name="android:minHeight">15dip</item>
+        <item name="android:maxHeight">15dip</item>
+    </style>
+    <!--自定义 横向进度条2-->
+    <style name="mProgress_horizontal2">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/c_progress_background0
+        </item><!-- progress_horizontal -->
+        <item name="android:indeterminateDrawable">
+            @android:drawable/progress_indeterminate_horizontal
+        </item>
+        <item name="android:minHeight">15dip</item>
+        <item name="android:maxHeight">25dip</item>
+    </style>
+    <!--自定义 圆形进度条-->
+    <style name="mProgress_circle">
+        <item name="android:indeterminateDrawable">@drawable/c_progress_background2</item>
+        <item name="android:minWidth">25dp</item>
+        <item name="android:minHeight">25dp</item>
+        <item name="android:maxWidth">150dp</item>
+        <item name="android:maxHeight">150dp</item>
+
+    </style>
+
+    <!--自定义 圆形进度条2-->
+    <style name="mProgress_circle2">
+        <item name="android:indeterminateDrawable">@drawable/c_progress_circle_loading</item>
+        <item name="android:minWidth">25dp</item>
+        <item name="android:minHeight">25dp</item>
+        <item name="android:maxWidth">25dp</item>
+        <item name="android:maxHeight">25dp</item>
+    </style>
+    <!--自定义 圆形进度条2-->
+    <style name="mProgress_circle3">
+        <item name="android:indeterminateDrawable">@drawable/c_progress_background3</item>
+        <item name="android:minWidth">25dp</item>
+        <item name="android:minHeight">25dp</item>
+        <item name="android:maxWidth">25dp</item>
+        <item name="android:maxHeight">25dp</item>
+    </style>
+
+    <style name="c_im_style">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!-- c end   -->
+
+
+    <!-- d start -->
+    <!-- d end   -->
+
+
+</resources>

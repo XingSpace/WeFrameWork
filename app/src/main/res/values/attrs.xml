@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- a start -->
+    <!-- a end -->
+
+    <!-- b start-->
+    <declare-styleable name="MarqueeTextView">
+        <attr name="text" format="string"/>
+        <attr name="textColor" format="color"/>
+        <attr name="speed" format="float"/>
+        <attr name="paddingColor" format="color"/>
+        <attr name="paddingAlpha" format="integer"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+
+    <attr name="xs_orientation">
+        <enum name="vertical" value="0"/>
+        <enum name="horizontal" value="1"/>
+    </attr>
+    <declare-styleable name="XSeekBar">
+        <attr name="xs_radius" format="dimension"/>
+        <attr name="xs_MaxHeight" format="dimension"/>
+        <attr name="xs_ProgressHeight" format="dimension"/>
+        <attr name="xs_MaxColor" format="color"/>
+        <attr name="xs_ProgressColor" format="color"/>
+        <attr name="xs_BCircleColor" format="color"/>
+        <attr name="xs_SCircleColor" format="color"/>
+        <attr name="xs_progress" format="integer"/>
+        <attr name="xs_max" format="integer"/>
+        <attr name="xs_orientation" />
+    </declare-styleable>
+
+
+    <!-- b end -->
+
+    <!-- c start -->
+    <!-- c end -->
+
+    <!-- d start -->
+    <!-- d end -->
+
+</resources>

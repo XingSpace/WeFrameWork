@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- a start -->
+    <string-array name="languages">
+        <item>c语言</item>
+        <item>java </item>
+        <item>php</item>
+        <item>xml</item>
+        <item>html</item>
+    </string-array>
+    <!-- a end   -->
+    <!-- b start -->
+    <!-- b end   -->
+    <!-- c start -->
+    <!-- c end   -->
+    <!-- d start -->
+    <!-- d end   -->
+</resources>

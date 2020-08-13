@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- a start -->
+
+    <color name="grey">#a3a3a3</color>
+
+    <color name="blue_1">#3F51B5</color>
+    <color name="blue_2">#2196F3</color>
+    <color name="blue_3">#03A9F4</color>
+    <color name="blue_4">#00BCD4</color>
+
+    <color name="red_1">#F44336</color>
+    <color name="red_2">#E91E63</color>
+    <color name="red_3">#9C27B0</color>
+    <color name="red_4">#673AB7</color>
+
+    <color name="gree_1">#009688</color>
+    <color name="gree_2">#5AB963</color>
+    <color name="gree_3">#8BC34A</color>
+    <color name="gree_4">#CDDc39</color>
+
+    <color name="yellow_1">#FFEB38</color>
+    <color name="yellow_2">#FFC107</color>
+    <color name="yellow_3">#FF9800</color>
+    <color name="yellow_4">#FF5722</color>
+
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="grey">#a3a3a3</drawable>
+
+    <drawable name="blue_1">#3F51B5</drawable>
+    <drawable name="blue_2">#2196F3</drawable>
+    <drawable name="blue_3">#03A9F4</drawable>
+    <drawable name="blue_4">#00BCD4</drawable>
+
+    <drawable name="red_1">#F44336</drawable>
+    <drawable name="red_2">#E91E63</drawable>
+    <drawable name="red_3">#9C27B0</drawable>
+    <drawable name="red_4">#673AB7</drawable>
+
+    <drawable name="gree_1">#009688</drawable>
+    <drawable name="gree_2">#5AB963</drawable>
+    <drawable name="gree_3">#8BC34A</drawable>
+    <drawable name="gree_4">#CDDc39</drawable>
+
+    <drawable name="yellow_1">#FFEB38</drawable>
+    <drawable name="yellow_2">#FFC107</drawable>
+    <drawable name="yellow_3">#FF9800</drawable>
+    <drawable name="yellow_4">#FF5722</drawable>
+
+    <!-- a end   -->
+    <!-- b start -->
+    <!-- b end   -->
+    <!-- c start -->
+
+    <color name="progress_1">#FFEB38</color>
+    <color name="progress_2">#FF5588</color>
+    <color name="progress_3">#FFEB38</color>
+    <color name="progress_4">#FFEB38</color>
+
+
+    <!-- c end   -->
+    <!-- d start -->
+    <!-- d end   -->
+
+
+    <!--public start-->
+    <!--纯白色-->
+    <color name="white">#FFFFFF</color>
+    <!--纯黑色-->
+    <color name="black">#000000</color>
+    <!--public end-->
+
+</resources>

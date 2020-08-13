@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <Button
+        style="@style/btn_z"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直角" />
+
+    <Button
+        style="@style/btn_y"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="圆角" />
+
+    <Button
+        style="@style/btn_s"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="阴影" />
+
+    <Button
+        style="@style/btn_z_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="直角,边框" />
+
+    <Button
+        style="@style/btn_y_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="圆角,边框" />
+
+    <Button
+        style="@style/btn_s_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="阴影,边框" />
+
+    <Button
+        style="@style/btn_z_g"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="渐变" />
+
+    <Button
+        style="@style/btn_z_g_top_to_buttom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="渐变" />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeFrameWork</string>
+
+
+    <!-- a start -->
+    <!-- a end   -->
+    <!-- b start -->
+    <!-- b end   -->
+    <!-- c start -->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity__configure_test">Activity_ConfigureTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity__navigation">Activity_Navigation</string>
+
+    <!-- c end   -->
+    <!-- d start -->
+    <!-- d end   -->
+</resources>

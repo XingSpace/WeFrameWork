@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_90040c3e0d2208b86e6c54a806e324448bc0726f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_51b90d6de239894daa7579942fbdb1f8b4a39053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.3.0_86126ded9060e6e7b7da8c96ffa1c90b28052f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.0/5151c737c01616c372c3d00ab145868ede10e826/rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5151c737c01616c372c3d00ab145868ede10e826">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/rxjava-2.0.0_b4fb8a9e03a9968062532d989d3b4532fbd1c30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fdbf8bb10b51dea7df447915279a082c3ec2cfcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.12.0_066ed5b52046de317be074af32c8dd2a0cb7b071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3cb9d0859bb24bceecc4d1db515d85b3b3ccf6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_41bb9c2fbf1ce87f7d4d0aea6377d9ab3ebca590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.12.0_61bc6d3f7fc00e56068f1cba571d3d05451e71b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_7b2baa47869b6d7aade213f1d7fff01f09322652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ee38a4557eddd983a3ec9197749942c6f7564147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4bc3d478cbdc7ad6350cbcce8dd4f0609ff1709e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_eed2bfb7f353d8f5ce8c4aeb7e39b3c87dfc1c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_316f1dcc69100cf79f91de3089f0ebee8359420f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_778717364bb4a3597bbefa8803e4f888aaf722c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/library-2.4.0_32b4e7c70b677a2259563ee4d8f184daf6c793df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.1.0_a49bfca5f004bd6b4ec1edcf95cd51c15731978d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_87c5d33088254f2b3292f0dd3e23d092ed57ae5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.12.0_ffbfd45948805f9bf0ae05376c1408e7e26758d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.12.0_7469944c639fd5c1f4bb88ba22880e0af428f89d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_f3937551d303bdb1a651a5d4027ec68946086ca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_b0786dd1a2647edd3962052b3e37cf323aefa50e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_77b29d125acb700896885d25ca945ac61bfa7c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ddfc29ab95fb675e6c3ae0c6ce156c80eb680dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_484ad16c89b33ada1d0f0dc5678720eefbe3ed97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_51a612d3efb653fe59149016e97bd0a6daa577cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="21d5aff81a43d20a14f82d653366c9b7a215071c">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.0_833ac25ba77a4d31abda9616cc66c0488fe24a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8ef83be8bfc16bbf6e0a53bbae732c20b21530d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_dfc26bfbc552e4b4140ea1913ec7535284de42c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_189cc6be14563c32883c34c14e962592506f82b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxing/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/wangxing/Documents/WeFrameWork/app/build/intermediates/pre-dexed/debug/core-3.2.1_49ae184faf2038b1b430ec7e560f2f16a62fba64.jar" />
+    </item>
+
+</items>

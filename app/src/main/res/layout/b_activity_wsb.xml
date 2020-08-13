@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <SeekBar
+        android:paddingRight="20dp"
+        style="@style/AlertDialog.AppCompat.Light"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar2"
+        android:max="10"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.wfw.para.weframework.b.View.XSeekBar
+            android:id="@+id/xsb1"
+            app:xs_progress="0"
+            android:paddingLeft="30dp"
+            android:paddingBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="1"
+            android:layout_gravity="center"/>
+        <TextView
+            android:text="自定义Seekbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <com.wfw.para.weframework.b.View.XSeekBar
+            android:id="@+id/xsb2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:xs_progress="13"
+            app:xs_ProgressHeight="15dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:paddingLeft="20dp"
+            app:xs_orientation="vertical"/>
+
+        <TextView
+            android:id="@+id/text"
+            android:text="测试板"
+            android:textSize="20dp"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
